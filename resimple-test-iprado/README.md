@@ -3,6 +3,9 @@
 - Autor: Ignacio Prado Ramírez
 - Fecha: 23 de noviembre del 2023
 
+> Nota: Para resolver la prueba técnica se utilizó React y algunas librerias de apoyo al desarrollo tales como: react-bootstrap, underscore y xlsx.
+Además, dentro de la carpeta data se almacenaron el diccionario de datos (json) y el origen de datos (xlsx) para su consumo 
+
 ## Introducción
 
 Este documento fue creado por el área de TI de ReSimple y está orientado al
